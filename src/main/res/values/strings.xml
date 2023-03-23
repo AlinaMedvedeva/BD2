@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">TableBD</string>
+    <string name="name">Название</string>
+    <string name="kalor">Калории</string>
+    <string name="belky">Белки</string>
+    <string name="jyr">Жиры</string>
+    <string name="uglevod">Углеводы</string>
+    <string name="save">Добавить</string>
+    <string name="info">Информация</string>
+</resources>
